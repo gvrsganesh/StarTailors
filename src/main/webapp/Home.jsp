@@ -9,5 +9,6 @@
 <body>
 <h1>Welcome to Star Tailors, Velgatoor
 </h1>
+<h2>New trends</h2>
 </body>
 </html>
